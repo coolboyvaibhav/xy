@@ -1,0 +1,32 @@
+                                   /*tag selector*/
+ body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: gray;
+  border-width: 1px;
+  border-style: none;
+  width: 10%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+}
+
+img {
+  border-radius: 100%;
+}
+
+table {
+  border: 2;
+}
+
+h1 {
+  color: #66BFBF;
+}
+
+h3 {
+  color: #8b2f97;
+
+}
+                                      /*class selector*/
